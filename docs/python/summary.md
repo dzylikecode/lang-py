@@ -1,2 +1,7 @@
 - [intro](python/README.md)
 - [env](python/environment.md)
+- [基本语法](python/C-set.md)
+- [面向对象](python/OOP.md)
+- [模块](python/module.md)
+- [异常](python/exceptions.md)
+- [自动化测试](python/auto-test.md)

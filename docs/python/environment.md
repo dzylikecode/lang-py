@@ -69,3 +69,7 @@ conda config --set auto_activate_base false
     似乎没有很好的解决方法
 
     `conda env export > environment.yml` 会记录通过 pip 安装的包
+
+  - [Anaconda export Environment file](https://stackoverflow.com/questions/41274007/anaconda-export-environment-file)
+
+    有 prefix 也没有关系
