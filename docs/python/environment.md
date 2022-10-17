@@ -11,33 +11,47 @@
 
 1. Download the latest shell script
 
-```bash
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-```
+   ```bash
+   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   ```
 
 2. Make the miniconda installation script executable
 
-```bash
-chmod +x Miniconda3-latest-Linux-x86_64.sh
-```
+   ```bash
+   chmod +x Miniconda3-latest-Linux-x86_64.sh
+   ```
 
 3. Run miniconda installation script
 
-```bash
-./Miniconda3-latest-Linux-x86_64.sh
-```
+   ```bash
+   ./Miniconda3-latest-Linux-x86_64.sh
+   ```
+
+   > 如果没有选择配置 zsh 的 conda, 可以执行以下命令
+
+   actviating conda for zsh
+
+   ```bash
+   eval "$(/home/minus/miniconda3/bin/conda shell.zsh hook)"
+   ```
+
+   conda init
+
+   ```bash
+   conda init zsh
+   ```
 
 4. Make sure the miniconda installation is complete
 
-```bash
-conda info
-```
+   ```bash
+   conda info
+   ```
 
 5. deactivate the default environment
 
-```bash
-conda config --set auto_activate_base false
-```
+   ```bash
+   conda config --set auto_activate_base false
+   ```
 
 ### commands
 
