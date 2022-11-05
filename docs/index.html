@@ -32,8 +32,8 @@
       defer
       src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js"
     ></script>
-    <!-- the version of marked must between 2.1.0 and 4(not included) -->
-    <script src="https://cdn.jsdelivr.net/npm/marked@3"></script>
+    <!-- the version of marked must between 2.1.0 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@4"></script>
     <!-- End -->
     <!-- slidebar collapse -->
     <link
@@ -47,6 +47,11 @@
     />
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <!-- End -->
+    <!-- begin for markmap -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.14.3/dist/browser/index.min.js"></script>
+    <!-- End -->
     <style type="text/css">
       iframe {
         display: block;
@@ -59,9 +64,10 @@
   <body>
     <div id="app"></div>
     <script>
-      var num = 0;
+      let num = 0;
       mermaid.initialize({ startOnLoad: false });
-
+      markmapSvg = [];
+      const transformer = new markmap.Transformer();
       window.$docsify = {
         name: "Python", // 目录的标题
         repo: "https://github.com/dzylikecode/lang-py", // 右上角的挂件
@@ -81,6 +87,25 @@
                   mermaid.render("mermaid-svg-" + num++, code) +
                   "</div>"
                 );
+              } else if (lang == "markmap") {
+                const { root: data } = transformer.transform(code);
+                let currentNum = num;
+                markmapSvg.push(function () {
+                  let elem = document.getElementById(
+                    "markmap-svg-" + currentNum
+                  );
+                  const mm = new markmap.Markmap(elem, null);
+                  if (data) {
+                    mm.setData(data);
+                    const { minX, maxX, minY, maxY } = mm.state;
+                    const naturalWidth = maxY - minY;
+                    const naturalHeight = maxX - minX;
+                    elem.style.width = naturalWidth + "px";
+                    elem.style.height = naturalHeight + "px";
+                    mm.fit(); // always fit for the first render
+                  }
+                });
+                return `<svg class="markmap" id="markmap-svg-${num++}"></svg>`;
               }
               return this.origin.code.apply(this, arguments);
             },
@@ -89,6 +114,8 @@
         plugins: [
           function (hook, vm) {
             hook.beforeEach(function (html) {
+              num = 0;
+              markmapSvg = [];
               let url =
                 "https://github.com/dzylikecode/lang-py/blob/master/docs/" +
                 vm.route.file;
@@ -101,6 +128,9 @@
                 )
               );
             });
+            hook.doneEach(function () {
+              markmapSvg.forEach((fn) => fn());
+            });
           },
         ],
       };
@@ -112,13 +142,12 @@
       (function () {
         let originMarkdown = window.$docsify.markdown;
         let newMarked = marked; // version above 2.1.0
+        window.$docsify.markdown = newMarkdown;
+        return;
         function newMarkdown(originMarked, originRenderer) {
           // in docsify.js: `window.marked = marked;`
           // this will overwrite the marked
           // here `let newMarked = marked;` will not right
-          function isFn(obj) {
-            return typeof obj === "function";
-          }
           const mathExtension = {
             name: "math",
             level: "inline",
@@ -190,9 +219,12 @@
           newMarked.setOptions(opts);
           newMarked.use({ extensions: [mathExtension] });
 
-          return newMarked;
+          return newMarked.parse;
+
+          function isFn(obj) {
+            return typeof obj === "function";
+          }
         }
-        window.$docsify.markdown = newMarkdown;
       })();
     </script>
     <!-- Docsify v4 -->
@@ -207,8 +239,15 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <!-- docsify-themeable -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-    <!-- End -->
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+    <script>
+      addBackToTop({
+        diameter: 56,
+        backgroundColor: "rgb(255, 82, 82)",
+        textColor: "#fff",
+      });
+    </script>
   </body>
 </html>

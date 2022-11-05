@@ -5,3 +5,7 @@
 - [模块](python/module.md)
 - [异常](python/exceptions.md)
 - [自动化测试](python/auto-test.md)
+- [文件](python/file.md)
+- [正则表达式](python/regex.md)
+- [序列化](python/serialization.md)
+- [string](python/string.md)
