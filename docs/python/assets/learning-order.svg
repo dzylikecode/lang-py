@@ -1,0 +1,3164 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  width="786px"
+  height="843px"
+  viewBox="-0.5 -0.5 786 843"
+  content='&lt;mxfile host="app.diagrams.net" modified="2022-08-13T14:00:33.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lKed9TRjpaMw1270zKOC" version="20.2.3" type="device"&gt;&lt;diagram id="iLxwws_WBHvW6YiPTI5Z" name="Page-1"&gt;7R1Zk5s4+tdQldkqp7gRj+AjszudTG86W5uZlyls0zZpDAzGnfb++pWEhDlkLNuAsdt56ICQkdB3H/okKMPV26fYiZafw7nrC7I4fxOUkSDLkqyo8D/Usk1bDB2kDYvYm5NOu4Yn738uaRRJ68abu+tCxyQM/cSLio2zMAjcWVJoc+I4/Fns9hz6xVEjZ+FWGp5mjl9t/a83T5ZpK5CNXfuvrrdY0pEl3UyfrBzamXzJeunMw5+5JmUsKMM4DJP0avU2dH20eHRd0t9N9jzNJha7QcLzg7Hl//X6Zwi+TJK/9e9hFLz8/WNA3rJOtvSD3Tn8fnIbxskyXISB4493rXYcboK5i94qwrtlsvLhpQQvf7hJsiUgdDZJCJt2b3gIw4j0Wydx+OIOQz+M8ZiKiP/BJ7Nw5c1Ir+r30cmGm3jm1nyUTPDEiRduUvfxpCP65NwIZPk+ueHKTeIt7BC7vpN4r0WUcAhmLbJ+u8WHF2T98e1/1m78+/QHwk9Z9J2p66c/FWTdhxO0owII9L83CCfsFZy/FwiKBZ+K0Rv8i1dFTNsHCVpP9EzNPUvct2Tg+N6C/G4GF8+Ni4/n7iyM4feEpA+CZux7gbsbGl4tyP94gghiwYK2PsGVTegj+KnFp7kHUbltGZdbTvp0331O0ocAPazMeqwJ5lCwgDDW0YVt4RYTt2iCNRIsXRirgg1bRNQCTAGM6ubdxiw/CGNTMG3B1vHsJniahmBJAhB/YU8GoR0E1AvFnkkCqSz2HH+N+m0hqQWDqbOGJAQREfeuJX45h+2EWeQYwasbJx5khFaKTaOVN59j+ifoNSK4BYkcdn32MW979hDO289hkBBGAIksvZ84K89HUuBX13910auL3GPHViT6BjKZHc+gLFhBPeBQOR4y1ieT4ZCXh6CPc99qiZ481VQiwYgAUxQtvf+5EwcSlVbLnCgwxaP5BLzNsYp61jEGAhgLlo1wBigQox8x/BlIwoEJSi0mQMkVocsoDmfuGn6O/XPpJe5T5GA2/BNKfhZa7EWgdYoZ4kdRNbRTYI0g3QasDVUuwFpSxQqsVZEBa60RWPOJbLVJkQ3XKt5+x8DQ6O0fpFtfxDngFOdU1WxdnPPBSeuXajV31suMu3YMGNArwOh3AtoDJ71XcDK6glOBNK4NaFRE3Y2YQ0bMtGJ8dKXq92AGyLKAVsYYXdi2ACb4YiSYEmmBdtLxNsfKmS3hmsPRnTjwkA3Io22Cu91xWBc1DVDQRaGSyWd3AK07XdRshUVnN39k/LovXJku+GHfUley9OrZMtt7xGSV/I6mNrn4OnKCHV/FHiZgIi5q2oSdmiPBUjAv3E09/6MeiAM4bQN7v+qn3dFsNOR/A1ZPZmMiXyGcUCoYbRU7DVXBxG5EOEtzgr0vCpKfqAXCH/Jc3VkhN0gwXUcXgOiHpxcshH/hRa5j5fo6fT+fhJdE4S7ijxbxmlx1NzFFfNbYhYyXGo0RuW9e8j13fbyIb0iQ8waJZPPCgpz6dcVqmEAYw9shYkD5iIetYfUeCJYhAJALfUCmZuDOQLAnginiPhL5uW2SSEQpPHJU0MFDZOvM0DIMIjJvLn5RH4o4z918gnu5pVCCVgwlaFqV3k0GuetdUrvSjtfldJW+IXpXOem9K1/lXW/vTqFTEdMEOuGJSKu8gLp9MA4N++joGrFwRTC1zlXIf2BtdiJYWHrYUPtVTglEM5THzw8DKBrikFMaqDepPZ7pmzgijKko/XcdSY3Gx64hDENdQod9R42rnPinVhw721yHKIQ0ua7ANnv/TUqtizqLamUko2MPPFsFmYXlKGrJvEfQbgDYyADItrAsbGSIyFXSpesr/3dfrpWGLKX0a6DBYzJMnYZkXex6wXMIWcEKYuyRkZGURdyc5GtYvmXZt0S+qYDhNxG1CxtSnYWvW8wNod4aMirx19Anozdq2aGbLbk5Q0CavD4ZpWMBSd78iBpyepYmF/BQB6UM7FJ/XVXq+sOLdAacspgTD8EJeDjbxK8ZQhSRMo8ebAQVIXkWrH1RV2jDoxt78IsQj2oId/ei22EsMlrBogrYJZGmDJbgnr0jpQzysx1CHIuPlYEMpR4hTd2o638sQt6Vw7P0LRXFk2ycmGGqWN9K/bR2TmcBgjVGWkx/A4sGUv6AyqtSVv3NvdCIP7AW30CLDxVf6qBpSGF0X0N/g/DUibcQqRewb7JccSqM5l1h5HCIiKVAmwYqCiMAVX2xy7TubJtYT/KF8yAoqAP9F7hAL4LbMPjkbVMql9xsxPQKXFtUIT+crSo1jQJnpRjL8h1S+yAldwSpu9Z4PVnEl58BUiE17HE00P43YGDPHk5uRooavj5eKwuTpRuvOXdN1m+Wu6tcqeoESjJYZ/jomDGoLnUukhTw6vgblyJGX5WwM3i+wcvzG/ernSed312IkB9Sje91PNHjRH22W2pF1XucpMymOvUHpnyWj4oT887fI3jYT9oCFnaAeVpXPOLq9cL3radp2Fk2RgobVAVM0FgiUYQTTCEy82lrxk1qawvfQYUYKpymAc3N1ItZqh1rbvvI/stmFcFXQcasSOLOErBx4hwYIWxDFyJOQkgtgdEB/Jo7iTNYOYEXbfyUtOVJkA7DhVr1vtcbSVouBy1Vs5pMZhpVbFA7zCVTGvWd7hPRx6j0zaiDiswplKV+lb5QWnKACi3sC22hLgY32C6ea14Ivw3JDjdbQowVRbtUmuxV5LOy+OGzk0R+mPje9JcTmGwENQG+ukTye2CxRonFKhqDxV54X4jS0r6Q/triCu+OEaoLXYyMv7nBOkyVU0ian8JwAVc/TXgEIsnpN+FwQ6TEE7oek7h2Goy3kLZ0iJIZ6niSG5mLnusz+2+EniVRKTo/s5phfSLod+dcU7jz7y9N0I/bb2E8WyJqnkBimIbhi5Du/2STdLZzCBO2PZm7083iFHJOR+Wi5PpM5RuhZPMaCLmdRONWirAUlO0suVgobwVviN4vVzjwNGe6LJWwrZ10zN/cGE4J8hZc4EJCNS5S9d9G3CSvTFDuggqNpns8RnjbOK7SgepipI+0nR2R//0JDOglnRoXA6qvInUjDKiKEywOpF+YA11RGagWzH1aga8/BUr3GgpL1wnCfpJ+QubGQ/tqfXmZW6F9SS7SviJ1qX3sdxqpCG8sBZuSogAkkhltpWWbRLzTPiudpKOKSdDiRJaplxxCjCwRZ+FxuohU6T3gglZyEdEo+KVRIU2SH2IMgDwCRffINtG0iJdlk2oCGX6kKfQQGx68YPMmsMracCOJj15xTMV79V34E3XN7CWyYL4BxqScWlpXDXIP5HVW8T5ikVxY1oHdx+jABptsOgZoyh++Ppwgc4rR5K8Pg+nG8+cDJ14NnuNwNVjPYieZLSVO5KpPDLwR5AKlxL5ukYuzRH41r+/jx48VJfVGICLJYmfCgXP9351vUeX1LaqXLid3T5+6zs9QK5Uu6qfN2plJ6n2bSM2ycYgXMnMLFwREMnbPDGulKiu8i8RmxF3zQr3XvOAyBkGRyXMXC23mHCJOxn+KL/qsYgNdJtH2ZoOjJJW8gnoZyC3vcFRPKSrRZ9AeFvC8tUlo7sYFk3polUNkQ42J167E+s9i6lMXrr73vPHhqkVHmd/vImMSEmeJOhUGq2YdI6Z0yKrptoo+bnXaX3bodALWeDX07pi4WZToQORj4sfHFUtRbDpQq1totEZzQC/J+mmVp8OY0xHn5wQAmU7OCUIObi2Dxfe9aI2Wnx70OPPDDXw185jHHFAqiz03zCle7BKnfX529dmsIU84ZZK0uCkjKCLRiGShaH6ZvM6SsTW+TB1H1kbYOZ4m1xooBoKqq+MNCihggrcwkzhJGoajbs4znZipB3PmxIMZ2iLiPXtufIozU3sXzkzTvGRYhZOOzz/w88p0bapCH9a1L37I0hi7TUxQrEtQcqqco2vPPbjC3nSTuPPBcX6VdBVvnYKryjZgFLtuT9nejxkVPNjhioHCWFZausISKA86FUXWru8G3oazYpj2LhI3IVqUShsyjnK+vA12furmPtbOtKDEm2D6XTlYOGHYnissg6FRA0SjX1DktbIvL7qvJYDUWNSr/0UDmDVDs8ryBioraqdFUCco6RBdALIfAhph8GmWf9bb+qiMT/zy8HjmfI81GQM/4lQW7uVFOZQNUMrT1GgFhUP16KmLpgtdQ2/U39vdWb345btK8/iOlprfv4OklfL0vHneNP2ubQ+yWTJ9tPL5PXscyNUXqUWfmkbrH9EXpZ/cWjhRv6KCqfvPSugNomq8scqWzlGoHpSglw4+KBdW5kVUXSu+qFLZdw+iHhsyAVKJIEy1dl7l/vqBwvuGdmb/C5808aj+qhjW8Ls1Ff8SHW+hql//NTifiJmkyCDZg4au1JYI4N5C3JV5wwca+Q6a7kFztzyvx/JMz9xAB7un5epSm3JCjuNEZ74buSwavLnJHHY9y0/Wl2bsv4VTPZeZyTfqQwh3849p/ulMV3N35h8TkucXNL1bfxX5sp9mrsr4K+mK5TyJ5ow/5no1Wr6ii7PwjkC3OlO0DrW50LQO+3pk+slF7KKZy0ebfnrRBDLKNmRDpl/F1NL1Pptme0sIOcEcldKorZeaFv0zaQ0A9YAmwSzlR8YpaRPhJ/vbwxflx4v0Npz8qf/7n0+jZPAudmpnh/tlRVykijbASilqqV4qExDnm4Mdp/6KtVz2dKEuX+qk7aoHSSnmK2Tbe47lk4Zcwj+jhFjNiXMmbjVaJ7Id3JKE8yX4IeWUCyf3c0meajJyX3DXEKWPWhF7xROVUaOU3auWtdqTsffqvTFXvh/2sxd4j9urnPrjFrKcQCAVGEVUezGrd5Km8MEWPsfMCq4Co768bjiPX4Kn336PHv78MR/+Ho3V0QF16VqdL/UnF1T0LAYP3at6lesoG6ytAd2fXJBLYcEZwibCwR1O5VX0GvQ6C5XkK9G8zwK/JJq9Kk3ChERbZbRVtDI79WQgfhQVpVt3HOt899NjQCW1prlTjQ4SSI9Pz5JoDWP2D4rOA8Z4cmm8U+PwkqyVSK2cNn2yngZv4zBM8t0hR1p+DueIn47/Dw==&lt;/diagram&gt;&lt;/mxfile&gt;'
+>
+  <defs />
+  <g>
+    <path
+      d="M 69 286 L 68.35 286 L 69.09 295.89 L 69.6 305.77 L 68.94 315.66 L 68.57 325.54 L 69.62 335.43 L 69.29 345.32 L 69.56 355.2 L 68.69 365.09 L 68.45 374.97 L 68.5 384.86 L 68.34 394.75 L 69 404.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 69 409.88 L 69 409.88 L 68.52 408.59 L 67.71 407.14 L 67.08 405.77 L 66.42 404.39 L 65.5 402.88 L 65.45 402.78 L 66.18 403.19 L 66.86 403.5 L 67.57 403.88 L 68.27 404.23 L 69 404.63 L 69.05 404.74 L 69.74 404.37 L 70.43 403.99 L 71.14 403.66 L 71.82 403.28 L 72.5 402.88 L 72.28 402.77 L 71.89 404.33 L 71.01 405.64 L 70.54 407.15 L 69.48 408.37 L 69 409.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/python-basic/"
+    >
+      <path
+        d="M 27.5 196 L 27.5 195.74 L 37.88 195.5 L 48.25 195.77 L 58.63 195.38 L 69 195.6 L 79.38 196.01 L 89.75 196.19 L 100.13 196.69 L 110.5 196 Q 124 196 124 209.5 L 124.3 209.5 L 123.56 220 L 124.74 230.5 L 123.92 241 L 123.69 251.5 L 124.08 262 L 124 272.5 Q 124 286 110.5 286 L 110.5 286 L 100.13 285.31 L 89.75 286.6 L 79.38 286.68 L 69 286.52 L 58.63 285.26 L 48.25 286.29 L 37.88 286.33 L 27.5 286 Q 14 286 14 272.5 L 13.32 272.5 L 13.66 262 L 13.4 251.5 L 13.8 241 L 13.79 230.5 L 14.08 220 L 14 209.5 Q 14 196 27.5 196 L 27.5 196 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 90px;
+                padding-top: 196px;
+                margin-left: 13px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 90px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <strong>Start</strong>
+                  </p>
+                  <hr />
+                  <p style="margin: 0px; margin-left: 8px">在机器学习前</p>
+                  <p style="margin: 0px; margin-left: 8px">(零基础)</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="69"
+            y="245"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Start...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a target="_parent" xlink:href="https://mofanpy.com/">
+      <path
+        d="M 212 1 L 212 0.9 L 222 0.76 L 232 0.37 L 242 1.47 L 252 1.27 L 262 0.51 L 272 1.14 L 282 1.26 L 292 1.35 L 302 0.91 L 312 1.31 L 322 1.1 L 332 0.53 L 342 0.83 L 352 0.67 L 362 0.36 L 372 1.33 L 382 1.24 L 392 0.46 L 402 0.3 L 412 0.5 L 422 1.17 L 432 1.16 L 442 1.49 L 452 1.65 L 462 0.69 L 472 0.98 L 482 1.3 L 492 0.29 L 502 0.54 L 512 1.08 L 522 1.56 L 532 0.39 L 542 0.31 L 552 0.66 L 562 1.14 L 572 1.12 L 582 1.59 L 592 0.41 L 602 1.68 L 612 1 L 611.63 1 L 612.43 11 L 612.65 21 L 611.9 31 L 612.38 41 L 612 51 L 612 51.46 L 602 50.6 L 592 50.32 L 582 51.09 L 572 50.78 L 562 50.77 L 552 50.73 L 542 50.79 L 532 50.77 L 522 51.02 L 512 50.93 L 502 50.7 L 492 50.32 L 482 50.44 L 472 50.65 L 462 50.35 L 452 51.64 L 442 50.36 L 432 51.56 L 422 51.31 L 412 50.27 L 402 50.62 L 392 51.27 L 382 51.27 L 372 50.43 L 362 50.82 L 352 50.62 L 342 50.79 L 332 50.48 L 322 50.71 L 312 51.08 L 302 50.68 L 292 51.13 L 282 51.02 L 272 50.41 L 262 51.41 L 252 51.36 L 242 50.81 L 232 50.46 L 222 50.76 L 212 51 L 212.65 51 L 212.29 41 L 212.48 31 L 212.07 21 L 211.44 11 L 212 1 L 212 1 Z Z"
+        fill="#ffcccc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <path
+        d="M 231 1 L 230.31 1 L 231.65 11 L 230.77 21 L 230.37 31 L 231.12 41 L 231 51 M 593 1 L 593.12 1 L 592.98 11 L 592.76 21 L 593.09 31 L 592.55 41 L 593 51"
+        fill="none"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 360px;
+                height: 1px;
+                padding-top: 26px;
+                margin-left: 232px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  莫烦Python
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="412"
+            y="30"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            莫烦Python
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 503 171 L 503.73 171 L 503.74 180 L 503.13 189 L 503.41 198 L 502.34 207 L 503 216 L 503 215.72 L 513 215.33 L 523 216.58 L 533 215.97 L 543 215.64 L 553 216 L 553.2 216 L 552.81 223.73 L 553.1 231.45 L 553.25 239.18 L 552.85 246.91 L 553 254.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 553 259.88 L 553.22 259.99 L 552.46 258.56 L 551.66 257.11 L 550.92 255.69 L 550.26 254.31 L 549.5 252.88 L 549.57 253.03 L 550.17 253.17 L 550.95 253.69 L 551.69 254.11 L 552.24 254.15 L 553 254.63 L 552.91 254.45 L 553.71 254.31 L 554.45 254.02 L 555.15 253.68 L 555.85 253.33 L 556.5 252.88 L 556.58 252.92 L 555.65 254.21 L 555.11 255.69 L 554.57 257.17 L 553.69 258.48 L 553 259.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 558 128.5 L 558 128.41 L 567.89 128.73 L 577.78 128.22 L 587.67 128.71 L 597.56 127.96 L 607.44 128.92 L 617.33 129.2 L 627.22 127.87 L 637.11 129.12 L 647 128.13 L 656.89 128.05 L 666.78 127.9 L 676.67 128.58 L 686.56 128.92 L 696.44 128.64 L 706.33 129.11 L 716.22 127.76 L 726.11 128.44 L 736 128.5 L 735.56 128.5 L 736.68 138.2 L 736.17 147.9 L 735.29 157.61 L 735.42 167.31 L 736.7 177.01 L 736.49 186.71 L 735.3 196.42 L 736.65 206.12 L 736 215.82 L 735.52 225.52 L 735.81 235.23 L 736.01 244.93 L 736 254.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 736 259.88 L 736.19 259.98 L 735.21 258.44 L 734.56 257.06 L 734.1 255.78 L 733.27 254.32 L 732.5 252.88 L 732.48 252.84 L 733.15 253.12 L 733.84 253.47 L 734.52 253.78 L 735.29 254.26 L 736 254.63 L 735.99 254.61 L 736.74 254.36 L 737.36 253.86 L 738.14 253.65 L 738.88 253.4 L 739.5 252.88 L 739.71 252.99 L 739.01 254.39 L 737.9 255.58 L 737.49 257.12 L 736.55 258.41 L 736 259.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 503 171 L 502.63 171 L 502.51 180 L 502.6 189 L 503.14 198 L 502.43 207 L 503 216 L 503 216.02 L 493 216.19 L 483 216.58 L 473 215.74 L 463 216.2 L 453 216 L 452.88 216 L 453.2 223.73 L 453.24 231.45 L 452.95 239.18 L 453.18 246.91 L 453 254.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 453 259.88 L 452.97 259.87 L 452.52 258.59 L 451.54 257.05 L 451.1 255.78 L 450.22 254.29 L 449.5 252.88 L 449.42 252.73 L 450.25 253.33 L 450.92 253.63 L 451.55 253.83 L 452.37 254.42 L 453 254.63 L 452.94 254.51 L 453.64 254.16 L 454.33 253.79 L 455.1 253.58 L 455.75 253.13 L 456.5 252.88 L 456.32 252.79 L 455.85 254.3 L 454.94 255.6 L 454.24 257 L 453.61 258.44 L 453 259.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 558 128.5 L 558 128.14 L 567.44 128.67 L 576.89 127.82 L 586.33 128.01 L 595.78 128.17 L 605.22 127.78 L 614.67 128.88 L 624.11 127.89 L 633.56 128.69 L 643 128.5 L 642.99 128.5 L 642.95 135.73 L 642.76 142.95 L 643.08 150.18 L 643.05 157.41 L 643 164.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 643 169.88 L 642.92 169.84 L 642.24 168.45 L 641.58 167.07 L 641.03 165.75 L 640.15 164.26 L 639.5 162.88 L 639.45 162.77 L 640.25 163.32 L 640.83 163.43 L 641.67 164.07 L 642.33 164.34 L 643 164.63 L 643.01 164.66 L 643.66 164.2 L 644.3 163.73 L 644.99 163.37 L 645.77 163.18 L 646.5 162.88 L 646.55 162.91 L 646.02 164.39 L 645.04 165.65 L 644.5 167.13 L 643.89 168.58 L 643 169.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/"
+    >
+      <path
+        d="M 460.75 86 L 460.75 86.53 L 471.31 86.05 L 481.88 86.33 L 492.44 85.9 L 503 85.48 L 513.56 85.44 L 524.13 85.65 L 534.69 85.98 L 545.25 86 Q 558 86 558 98.75 L 557.37 98.75 L 557.41 108.67 L 558.35 118.58 L 558.03 128.5 L 557.42 138.42 L 558.73 148.33 L 558 158.25 Q 558 171 545.25 171 L 545.25 170.27 L 534.69 170.83 L 524.13 170.44 L 513.56 171.52 L 503 171.11 L 492.44 170.81 L 481.88 170.44 L 471.31 171.54 L 460.75 171 Q 448 171 448 158.25 L 448.4 158.25 L 447.31 148.33 L 447.66 138.42 L 447.69 128.5 L 447.5 118.58 L 448.45 108.67 L 448 98.75 Q 448 86 460.75 86 L 460.75 86 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 85px;
+                padding-top: 86px;
+                margin-left: 447px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 85px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <br />
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px">神经网络</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="503"
+            y="132"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            神经网络...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 448 436 L 448 436.24 L 443.4 436.23 L 438.8 435.79 L 434.2 436.22 L 429.6 435.88 L 425 436 L 424.94 436 L 424.29 426.71 L 425.29 417.43 L 424.66 408.14 L 424.54 398.86 L 424.88 389.57 L 425.51 380.29 L 425 371 L 425 371.21 L 421.67 371.08 L 418.35 371.13 L 415.02 370.98 L 411.69 371.13 L 408.37 371"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 403.12 371 L 403.09 370.94 L 404.47 370.2 L 405.95 369.66 L 407.42 369.11 L 408.67 368.11 L 410.12 367.5 L 410.09 367.48 L 409.56 368.09 L 409.64 369.01 L 409.18 369.65 L 408.82 370.35 L 408.37 371 L 408.33 370.98 L 408.76 371.72 L 408.9 372.32 L 409.23 373.01 L 409.58 373.71 L 410.12 374.5 L 410.07 374.4 L 408.68 373.73 L 407.29 373.04 L 405.99 372.54 L 404.54 371.75 L 403.12 371 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/sklearn/"
+    >
+      <path
+        d="M 464.5 381 L 464.5 381.57 L 474.13 381.41 L 483.75 380.25 L 493.38 381.52 L 503 380.81 L 512.63 381.07 L 522.25 380.82 L 531.88 381.37 L 541.5 381 Q 558 381 558 397.5 L 558.57 397.5 L 558.3 407.13 L 557.27 416.75 L 557.68 426.38 L 558.2 436 L 557.65 445.63 L 557.57 455.25 L 558.4 464.88 L 558 474.5 Q 558 491 541.5 491 L 541.5 490.86 L 531.88 490.56 L 522.25 490.27 L 512.63 491.13 L 503 490.43 L 493.38 490.39 L 483.75 490.88 L 474.13 490.72 L 464.5 491 Q 448 491 448 474.5 L 447.34 474.5 L 448.47 464.88 L 448.43 455.25 L 447.71 445.63 L 447.77 436 L 448.36 426.38 L 448.11 416.75 L 447.62 407.13 L 448 397.5 Q 448 381 464.5 381 L 464.5 381 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 110px;
+                padding-top: 381px;
+                margin-left: 447px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 110px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <strong><br /></strong>
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span>有监督/</span><br />
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">无监督/</p>
+                  <p style="margin: 0px; margin-left: 8px">半监督/</p>
+                  <p style="margin: 0px; margin-left: 8px">降维多功能包 </p>
+                  <p style="margin: 0px; margin-left: 8px">(Sklearn)<br /></p>
+                </div>
+              </div></div
+          ></foreignObject>
+          <text
+            x="503"
+            y="440"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            有监督/...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 114 441 L 114 441.56 L 123.5 440.32 L 133 441.46 L 142.5 440.72 L 152 441.04 L 161.5 441 L 161.38 441 L 161.61 434.27 L 161.41 427.55 L 161.28 420.82 L 161.3 414.09 L 161.5 407.37"
+      fill="none"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 161.5 402.12 L 161.39 402.06 L 162.3 403.57 L 162.86 404.9 L 163.69 406.36 L 164.32 407.73 L 165 409.12 L 165.06 409.24 L 164.35 408.88 L 163.66 408.53 L 162.92 408.11 L 162.24 407.79 L 161.5 407.37 L 161.61 407.59 L 160.78 407.68 L 160.01 407.89 L 159.44 408.51 L 158.75 408.86 L 158 409.12 L 157.83 409.03 L 158.48 407.61 L 159.18 406.21 L 159.93 404.83 L 160.82 403.53 L 161.5 402.12 Z Z"
+      fill="rgb(0, 0, 0)"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/python-basic/interactive-python/"
+    >
+      <path
+        d="M 24 411 L 24 411.21 L 34 411.7 L 44 411.02 L 54 410.3 L 64 411.52 L 74 411.38 L 84 411.56 L 94 410.68 L 104 410.81 L 114 411 L 114.14 411 L 113.32 421 L 114.57 431 L 113.43 441 L 113.96 451 L 113.35 461 L 114 471 L 114 470.84 L 104 471.15 L 94 470.88 L 84 470.45 L 74 471.26 L 64 470.9 L 54 470.61 L 44 470.32 L 34 471.74 L 24 471 L 24.01 471 L 23.55 461 L 24 451 L 23.7 441 L 24.73 431 L 24.44 421 L 24 411 L 24 411 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 441px;
+                margin-left: 25px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Python 基础，在浏览器里运行并学习
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="69"
+            y="445"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Python 基础，在浏览器里运行并学习
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 313 128.5 L 313 128.12 L 322.89 128.48 L 332.79 129.03 L 342.68 128.52 L 352.58 128.31 L 362.47 128.9 L 372.37 128.44 L 382.26 128.04 L 392.16 128.44 L 402.05 129.04 L 411.95 128.27 L 421.84 129.25 L 431.74 128.51 L 441.63 128.5"
+      fill="none"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 446.88 128.5 L 446.79 128.32 L 445.55 129.34 L 444.09 129.92 L 442.71 130.65 L 441.17 131.08 L 439.88 132 L 439.99 132.05 L 440.18 131.27 L 440.55 130.58 L 441.14 130 L 441.36 129.24 L 441.63 128.5 L 441.46 128.41 L 441.21 127.76 L 440.74 127 L 440.76 126.49 L 440.02 125.6 L 439.88 125 L 439.89 125.02 L 441.37 125.88 L 442.73 126.5 L 444.14 127.21 L 445.43 127.69 L 446.88 128.5 Z Z"
+      fill="rgb(0, 0, 0)"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/ML-intro/"
+    >
+      <path
+        d="M 215.75 86 L 215.75 85.56 L 226.31 85.94 L 236.88 86.21 L 247.44 86.66 L 258 85.96 L 268.56 85.42 L 279.13 86.23 L 289.69 85.62 L 300.25 86 Q 313 86 313 98.75 L 313.64 98.75 L 313.41 108.67 L 312.84 118.58 L 312.78 128.5 L 312.39 138.42 L 313.07 148.33 L 313 158.25 Q 313 171 300.25 171 L 300.25 171.16 L 289.69 170.89 L 279.13 170.34 L 268.56 170.59 L 258 170.74 L 247.44 170.91 L 236.88 171.23 L 226.31 171.05 L 215.75 171 Q 203 171 203 158.25 L 202.36 158.25 L 202.39 148.33 L 202.27 138.42 L 203.58 128.5 L 203.22 118.58 L 203.07 108.67 L 203 98.75 Q 203 86 215.75 86 L 215.75 86 Z Z"
+        fill="#e6ffcc"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 85px;
+                padding-top: 86px;
+                margin-left: 202px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 85px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <strong><br /></strong>
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">了解</p>
+                  <p style="margin: 0px; margin-left: 8px">机器学习方法</p>
+                  <p style="margin: 0px; margin-left: 8px">(*可跳)</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="258"
+            y="132"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            了解机器学习方法(*可跳)...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 297 371 L 297 370.75 L 287.63 370.83 L 278.25 370.95 L 268.88 371.2 L 259.5 370.57 L 250.13 371.67 L 240.75 371.38 L 231.38 370.64 L 222 371 L 221.81 371 L 221.91 379.33 L 221.98 387.65 L 221.82 395.98 L 222.03 404.31 L 222 412.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 222 417.88 L 221.82 417.79 L 221.25 416.46 L 220.38 414.97 L 220.09 413.78 L 219.29 412.33 L 218.5 410.88 L 218.41 410.7 L 219.13 411.08 L 219.89 411.55 L 220.57 411.87 L 221.38 412.44 L 222 412.63 L 221.96 412.55 L 222.78 412.45 L 223.43 411.98 L 224.11 411.61 L 224.76 411.15 L 225.5 410.88 L 225.43 410.85 L 224.81 412.29 L 224.26 413.76 L 223.2 414.98 L 222.59 416.43 L 222 417.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/reinforcement-learning/"
+    >
+      <path
+        d="M 306 341 L 306 340.51 L 315.67 341.28 L 325.33 340.74 L 335 341 L 344.67 340.45 L 354.33 340.34 L 364 340.91 L 373.67 340.71 L 383.33 340.47 L 393 341 Q 402 341 402 350 L 401.81 350 L 401.88 358.4 L 401.88 366.8 L 401.87 375.2 L 401.85 383.6 L 402 392 Q 402 401 393 401 L 393 400.36 L 383.33 400.68 L 373.67 401.05 L 364 400.83 L 354.33 400.52 L 344.67 401.31 L 335 400.5 L 325.33 400.66 L 315.67 400.74 L 306 401 Q 297 401 297 392 L 296.97 392 L 296.98 383.6 L 297.15 375.2 L 297.15 366.8 L 297.07 358.4 L 297 350 Q 297 341 306 341 L 306 341 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 107px;
+                height: 60px;
+                padding-top: 341px;
+                margin-left: 296px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 105px;
+                  height: 60px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  ></p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span><br /></span>
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span>机器人无师自通</span><br />
+                  </p>
+                  <p style="margin: 0px 0px 0px 8px">(强化学习)</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="350"
+            y="375"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            机器人无师自通(强化学习)...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 222 469 L 222 469 L 221.57 479.29 L 221.42 489.57 L 222.17 499.86 L 222.12 510.14 L 221.95 520.43 L 222.02 530.71 L 222 541 L 222 541.12 L 212.09 540.98 L 202.18 541.26 L 192.27 540.28 L 182.36 540.62 L 172.45 540.35 L 162.55 541.5 L 152.64 540.3 L 142.73 541.26 L 132.82 540.35 L 122.91 540.92 L 113 541 L 112.31 541 L 112.48 551.52 L 113.12 562.04 L 112.53 572.56 L 112.98 583.08 L 113.5 593.59 L 112.28 604.11 L 113 614.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 113 619.88 L 113.21 619.99 L 112.31 618.49 L 111.58 617.07 L 110.97 615.72 L 109.98 614.17 L 109.5 612.88 L 109.55 612.99 L 110.1 613.04 L 110.99 613.77 L 111.7 614.14 L 112.3 614.28 L 113 614.63 L 113.06 614.75 L 113.75 614.39 L 114.43 613.99 L 115.17 613.73 L 115.89 613.42 L 116.5 612.88 L 116.68 612.97 L 115.81 614.29 L 115.05 615.66 L 114.42 617.09 L 113.92 618.59 L 113 619.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 470 541 Q 470 591 453.5 591 Q 437 591 436.98 619.67"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 436.97 624.92 L 436.96 624.91 L 436.31 623.54 L 435.76 622.21 L 434.78 620.67 L 434.27 619.37 L 433.48 617.92 L 433.47 617.9 L 434.18 618.27 L 434.9 618.66 L 435.6 619.03 L 436.33 619.42 L 436.98 619.67 L 436.88 619.48 L 437.7 619.36 L 438.37 618.97 L 439.18 618.83 L 439.8 618.31 L 440.48 617.92 L 440.46 617.91 L 439.77 619.32 L 439.29 620.83 L 438.47 622.17 L 437.78 623.58 L 436.97 624.92 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/evolutionary-algorithm/"
+    >
+      <path
+        d="M 185.5 419 L 185.5 418.67 L 195.93 418.34 L 206.36 418.74 L 216.79 419.21 L 227.21 418.73 L 237.64 419.73 L 248.07 418.81 L 258.5 419 Q 266 419 266 426.5 L 266.19 426.5 L 266.03 433.5 L 265.78 440.5 L 265.75 447.5 L 265.9 454.5 L 266 461.5 Q 266 469 258.5 469 L 258.5 468.8 L 248.07 468.74 L 237.64 469.58 L 227.21 469.41 L 216.79 468.7 L 206.36 469.59 L 195.93 469 L 185.5 469 Q 178 469 178 461.5 L 178 461.5 L 177.96 454.5 L 177.9 447.5 L 178.12 440.5 L 177.76 433.5 L 178 426.5 Q 178 419 185.5 419 L 185.5 419 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 90px;
+                height: 50px;
+                padding-top: 419px;
+                margin-left: 177px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 88px;
+                  height: 50px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  ></p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span>使用进化论</span><br />
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    的<span>机器学习</span>
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">(进化算法)</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="222"
+            y="448"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            使用进化论的机器学习(进化算法)...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 338 631 Q 386 631 386 646 Q 386 661 427.63 661"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 432.88 661 L 432.88 661 L 431.52 661.77 L 430.02 662.28 L 428.76 663.25 L 427.18 663.59 L 425.88 664.5 L 425.83 664.47 L 426.38 663.88 L 426.73 663.17 L 427.04 662.45 L 427.28 661.7 L 427.63 661 L 427.8 661.09 L 427.46 660.39 L 426.82 659.54 L 426.42 658.82 L 426.3 658.23 L 425.88 657.5 L 425.81 657.36 L 427.3 658.24 L 428.57 658.68 L 430.12 659.68 L 431.46 660.26 L 432.88 661 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 113 701 L 112.96 701 L 112.96 709 L 112.86 717 L 113.17 725 L 112.77 733 L 113 741 L 113 741.22 L 103.83 740.36 L 94.67 741.56 L 85.5 741.11 L 76.33 740.59 L 67.17 740.71 L 58 741 L 57.76 741 L 58.2 747.73 L 57.88 754.45 L 58.12 761.18 L 57.96 767.91 L 58 774.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 58 779.88 L 57.97 779.87 L 57.31 778.49 L 56.46 777.01 L 55.88 775.67 L 55.02 774.19 L 54.5 772.88 L 54.56 773.01 L 55.1 773.03 L 55.91 773.6 L 56.56 773.85 L 57.35 774.38 L 58 774.63 L 57.9 774.43 L 58.68 774.25 L 59.38 773.89 L 60.02 773.43 L 60.76 773.14 L 61.5 772.88 L 61.58 772.92 L 60.7 774.23 L 60.11 775.69 L 59.23 777 L 58.6 778.43 L 58 779.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 113 701 L 112.96 701 L 112.78 709 L 112.88 717 L 113.04 725 L 113.02 733 L 113 741 L 113 741.71 L 123.17 740.68 L 133.33 741.68 L 143.5 740.76 L 153.67 741.01 L 163.83 741.41 L 174 741 L 174.2 741 L 173.81 747.73 L 174.11 754.45 L 173.98 761.18 L 174.01 767.91 L 174 774.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 174 779.88 L 174.04 779.9 L 173.19 778.43 L 172.42 776.99 L 171.78 775.62 L 171.42 774.39 L 170.5 772.88 L 170.48 772.83 L 171.13 773.09 L 171.95 773.68 L 172.58 773.89 L 173.41 774.51 L 174 774.63 L 174.06 774.74 L 174.8 774.48 L 175.42 773.97 L 176.05 773.49 L 176.91 773.45 L 177.5 772.88 L 177.47 772.87 L 176.83 774.3 L 176.17 775.72 L 175.61 777.19 L 174.76 778.51 L 174 779.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a target="_parent" xlink:href="https://mofanpy.com/tutorials/others/">
+      <path
+        d="M 70 621 L 70 620.72 L 79.56 620.38 L 89.11 620.45 L 98.67 620.86 L 108.22 621.48 L 117.78 621.53 L 127.33 620.94 L 136.89 620.33 L 146.44 620.32 L 156 621 Q 168 621 168 633 L 168.32 633 L 167.77 642.33 L 168.28 651.67 L 167.46 661 L 167.86 670.33 L 167.3 679.67 L 168 689 Q 168 701 156 701 L 156 700.49 L 146.44 700.26 L 136.89 701.45 L 127.33 700.87 L 117.78 701.37 L 108.22 701.01 L 98.67 701.44 L 89.11 701.71 L 79.56 700.4 L 70 701 Q 58 701 58 689 L 58.43 689 L 57.57 679.67 L 57.41 670.33 L 57.95 661 L 58.5 651.67 L 58.4 642.33 L 58 633 Q 58 621 70 621 L 70 621 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 80px;
+                padding-top: 621px;
+                margin-left: 57px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 80px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  ></p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px">效率工具</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="113"
+            y="665"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            效率工具...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 489 701 L 488.89 701 L 489.21 709 L 488.97 717 L 489.03 725 L 488.8 733 L 489 741 L 489 741.6 L 479.44 741.19 L 469.89 740.79 L 460.33 740.9 L 450.78 741.39 L 441.22 741.28 L 431.67 741.12 L 422.11 740.53 L 412.56 740.94 L 403 741 L 403.24 741 L 403.02 747.73 L 402.76 754.45 L 402.9 761.18 L 403.09 767.91 L 403 774.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 403 779.88 L 403.21 779.99 L 402.33 778.5 L 401.53 777.05 L 400.69 775.58 L 400.19 774.27 L 399.5 772.88 L 399.54 772.96 L 400.26 773.35 L 400.86 773.5 L 401.49 773.72 L 402.23 774.13 L 403 774.63 L 402.96 774.56 L 403.62 774.13 L 404.5 774.12 L 405.18 773.73 L 405.71 773.06 L 406.5 772.88 L 406.71 772.98 L 405.93 774.35 L 405.12 775.69 L 404.45 777.11 L 403.75 778.51 L 403 779.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 489 701 L 489.21 701 L 489.22 709 L 488.86 717 L 489.14 725 L 488.9 733 L 489 741 L 489 741.01 L 499.04 740.72 L 509.09 741.24 L 519.13 740.87 L 529.17 740.37 L 539.22 740.5 L 549.26 740.7 L 559.3 740.34 L 569.35 740.75 L 579.39 741.12 L 589.43 740.8 L 599.48 740.83 L 609.52 741.2 L 619.57 741.56 L 629.61 741.26 L 639.65 740.71 L 649.7 740.29 L 659.74 740.55 L 669.78 741.4 L 679.83 740.66 L 689.87 741.37 L 699.91 741.68 L 709.96 741.38 L 720 741 L 719.9 741 L 720.17 749 L 719.96 757 L 720.12 765 L 719.89 773 L 720 781 L 720 781.2 L 720.87 780.83 L 721.75 780.87 L 722.62 780.96 L 723.49 781.18 L 724.37 781"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 719.12 781 L 719.06 780.88 L 720.54 780.34 L 721.93 779.63 L 723.4 779.07 L 724.8 778.36 L 726.12 777.5 L 726.16 777.52 L 725.97 778.3 L 725.23 778.8 L 725.01 779.57 L 724.73 780.31 L 724.37 781 L 724.57 781.1 L 724.89 781.78 L 725.01 782.37 L 725.32 783.05 L 725.77 783.8 L 726.12 784.5 L 726.04 784.34 L 724.61 783.58 L 723.39 783.25 L 722 782.57 L 720.55 781.77 L 719.12 781 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 489 701 L 489.09 701 L 488.91 709 L 489.17 717 L 488.9 725 L 488.82 733 L 489 741 L 489 740.82 L 492.8 740.81 L 496.6 740.77 L 500.4 741.16 L 504.2 741.13 L 508 741 L 508.09 741 L 507.89 747.73 L 507.94 754.45 L 507.96 761.18 L 507.78 767.91 L 508 774.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 508 779.88 L 507.85 779.81 L 507.28 778.47 L 506.75 777.16 L 505.79 775.63 L 505.3 774.33 L 504.5 772.88 L 504.46 772.8 L 505.23 773.29 L 506 773.78 L 506.56 773.85 L 507.26 774.2 L 508 774.63 L 508.1 774.82 L 508.7 774.28 L 509.4 773.92 L 509.99 773.37 L 510.9 773.43 L 511.5 772.88 L 511.56 772.91 L 510.87 774.32 L 510.25 775.76 L 509.51 777.14 L 508.57 778.42 L 508 779.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/ML-practice/"
+    >
+      <path
+        d="M 446 621 L 446 620.96 L 455.56 621.31 L 465.11 620.35 L 474.67 621.25 L 484.22 621.12 L 493.78 621.7 L 503.33 621.55 L 512.89 621.09 L 522.44 620.73 L 532 621 Q 544 621 544 633 L 544.35 633 L 543.46 642.33 L 544.02 651.67 L 543.66 661 L 543.99 670.33 L 544.29 679.67 L 544 689 Q 544 701 532 701 L 532 700.53 L 522.44 701.19 L 512.89 701.42 L 503.33 701.4 L 493.78 701.41 L 484.22 700.65 L 474.67 701.49 L 465.11 701.71 L 455.56 701.59 L 446 701 Q 434 701 434 689 L 433.5 689 L 434.71 679.67 L 434.03 670.33 L 434.29 661 L 434.09 651.67 L 434.25 642.33 L 434 633 Q 434 621 446 621 L 446 621 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 80px;
+                padding-top: 621px;
+                margin-left: 433px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 80px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <br />
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px">实战</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="489"
+            y="665"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            实战...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/numpy/"
+    >
+      <path
+        d="M 113 356 L 113 356 L 122.7 356.71 L 132.4 356.35 L 142.1 355.49 L 151.8 356.05 L 161.5 355.52 L 171.2 356.16 L 180.9 355.75 L 190.6 356.16 L 200.3 356.61 L 210 356 L 209.32 356 L 209.55 365 L 210.41 374 L 209.76 383 L 209.99 392 L 210 401 L 210 400.62 L 200.3 401.71 L 190.6 401.35 L 180.9 400.93 L 171.2 400.79 L 161.5 401.67 L 151.8 401.22 L 142.1 401.59 L 132.4 401.03 L 122.7 401.66 L 113 401 L 112.7 401 L 113.6 392 L 112.74 383 L 112.26 374 L 113.38 365 L 113 356 L 113 356 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 95px;
+                height: 1px;
+                padding-top: 379px;
+                margin-left: 114px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Numpy<br />数据怪兽
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="162"
+            y="382"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Numpy...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 258 216 L 258.09 216 L 257.92 208.27 L 257.81 200.55 L 258.16 192.82 L 257.88 185.09 L 258 177.37"
+      fill="none"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 258 172.12 L 258.18 172.21 L 258.61 173.47 L 259.25 174.84 L 260 176.27 L 260.59 177.61 L 261.5 179.12 L 261.53 179.18 L 260.73 178.63 L 260 178.21 L 259.41 178.1 L 258.74 177.8 L 258 177.37 L 257.99 177.35 L 257.28 177.68 L 256.62 178.12 L 255.96 178.55 L 255.24 178.84 L 254.5 179.12 L 254.66 179.2 L 255 177.62 L 255.94 176.34 L 256.48 174.86 L 257.31 173.53 L 258 172.12 Z Z"
+      fill="rgb(0, 0, 0)"
+      stroke="rgb(0, 0, 0)"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 303 246 L 303 246.64 L 313.36 246.46 L 323.71 246.12 L 334.07 246.74 L 344.43 245.99 L 354.79 246.19 L 365.14 246.34 L 375.5 246 L 375.27 246 L 375.78 236.21 L 375.24 226.42 L 375.27 216.63 L 375.86 206.83 L 375.5 197.04 L 375.44 187.25 L 375.55 177.46 L 375.73 167.67 L 375.68 157.88 L 376.02 148.08 L 375.15 138.29 L 375.5 128.5 L 375.5 129.08 L 384.95 128.14 L 394.39 127.98 L 403.84 128.62 L 413.29 128.51 L 422.74 128.8 L 432.18 128.28 L 441.63 128.5"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 446.88 128.5 L 446.97 128.67 L 445.56 129.35 L 443.99 129.71 L 442.74 130.72 L 441.34 131.42 L 439.88 132 L 440.08 132.1 L 440.34 131.35 L 440.38 130.5 L 440.81 129.84 L 441.17 129.15 L 441.63 128.5 L 441.55 128.46 L 441.19 127.75 L 441.15 127.21 L 440.78 126.5 L 440.45 125.81 L 439.88 125 L 439.83 124.91 L 441.26 125.66 L 442.65 126.34 L 444.13 127.2 L 445.53 127.9 L 446.88 128.5 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/plt/"
+    >
+      <path
+        d="M 213 216 L 213 216.71 L 223 215.32 L 233 215.54 L 243 215.42 L 253 215.62 L 263 215.88 L 273 216.56 L 283 215.93 L 293 215.56 L 303 216 L 302.73 216 L 302.92 226 L 302.68 236 L 303.1 246 L 303.3 256 L 302.66 266 L 303 276 L 303 276.65 L 293 275.86 L 283 275.93 L 273 276.18 L 263 275.86 L 253 276.08 L 243 275.93 L 233 276.46 L 223 275.76 L 213 276 L 213.32 276 L 213.28 266 L 213.14 256 L 212.57 246 L 213.3 236 L 212.43 226 L 213 216 L 213 216 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 246px;
+                margin-left: 214px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  学会展示数据 (Matplotlib)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="258"
+            y="250"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            学会展示数据 (Matplotlib)
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 553 321 L 552.79 321 L 552.86 327 L 553.12 333 L 553.14 339 L 553.19 345 L 553 351 L 553 350.73 L 543 350.62 L 533 351.73 L 523 350.87 L 513 351.55 L 503 351 L 502.88 351 L 502.86 355.73 L 503.17 360.45 L 503.14 365.18 L 502.99 369.91 L 503 374.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 503 379.88 L 502.8 379.78 L 502.42 378.54 L 501.76 377.16 L 500.76 375.61 L 500.38 374.37 L 499.5 372.88 L 499.57 373.02 L 500.15 373.12 L 500.81 373.4 L 501.68 374.1 L 502.28 374.25 L 503 374.63 L 502.93 374.49 L 503.63 374.15 L 504.47 374.07 L 505.05 373.48 L 505.71 373.04 L 506.5 372.88 L 506.33 372.8 L 505.71 374.24 L 505.13 375.7 L 504.22 376.99 L 503.77 378.52 L 503 379.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/tensorflow/"
+    >
+      <path
+        d="M 508 261 L 508 260.78 L 518 261.01 L 528 261.71 L 538 260.35 L 548 261.22 L 558 261.71 L 568 260.52 L 578 260.46 L 588 261.67 L 598 261 L 597.65 261 L 598.08 271 L 598.2 281 L 598.32 291 L 598.04 301 L 598.42 311 L 598 321 L 598 321.45 L 588 321.09 L 578 321.08 L 568 320.57 L 558 321.27 L 548 320.34 L 538 320.29 L 528 321.74 L 518 320.68 L 508 321 L 507.29 321 L 508.71 311 L 507.78 301 L 507.33 291 L 508.45 281 L 507.77 271 L 508 261 L 508 261 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 291px;
+                margin-left: 509px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Tensorflow (Google开发, 社区好)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="553"
+            y="295"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Tensorflow (Goo...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 453 321 L 453.24 321 L 453.02 327 L 453.07 333 L 453.16 339 L 453.01 345 L 453 351 L 453 350.98 L 463 350.37 L 473 350.47 L 483 351.69 L 493 350.53 L 503 351 L 502.76 351 L 503.17 355.73 L 502.8 360.45 L 503.07 365.18 L 502.95 369.91 L 503 374.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 503 379.88 L 503.14 379.95 L 502.14 378.4 L 501.67 377.12 L 501.04 375.75 L 500.06 374.21 L 499.5 372.88 L 499.6 373.07 L 500.17 373.17 L 500.86 373.51 L 501.59 373.91 L 502.24 374.16 L 503 374.63 L 503.01 374.65 L 503.73 374.34 L 504.32 373.78 L 505.07 373.51 L 505.85 373.34 L 506.5 372.88 L 506.7 372.98 L 505.78 374.27 L 505.27 375.76 L 504.33 377.04 L 503.53 378.4 L 503 379.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/torch/"
+    >
+      <path
+        d="M 408 261 L 408 261.37 L 418 260.96 L 428 260.29 L 438 260.93 L 448 260.33 L 458 260.31 L 468 260.49 L 478 261.34 L 488 260.79 L 498 261 L 498.15 261 L 497.98 271 L 497.7 281 L 498.54 291 L 498.51 301 L 497.36 311 L 498 321 L 498 321.53 L 488 321.21 L 478 321.16 L 468 321.69 L 458 321.11 L 448 321.29 L 438 321.51 L 428 321.02 L 418 320.84 L 408 321 L 408.71 321 L 407.25 311 L 407.36 301 L 407.65 291 L 408.12 281 L 407.61 271 L 408 261 L 408 261 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 291px;
+                margin-left: 409px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  PyTorch (Facebook 开发, 方便debug)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="453"
+            y="295"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            PyTorch (Facebo...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 688 291 L 688 290.38 L 677.55 291.14 L 667.09 290.5 L 656.64 291.58 L 646.18 291.23 L 635.73 290.88 L 625.28 291.1 L 614.82 291.1 L 604.37 291"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 599.12 291 L 599.09 290.94 L 600.49 290.25 L 602.03 289.82 L 603.4 289.06 L 604.83 288.41 L 606.12 287.5 L 606.28 287.58 L 605.92 288.28 L 605.21 288.8 L 605.23 289.68 L 604.51 290.2 L 604.37 291 L 604.29 290.96 L 604.54 291.61 L 605.18 292.46 L 605.28 293.03 L 605.77 293.8 L 606.12 294.5 L 606.16 294.59 L 604.68 293.72 L 603.37 293.21 L 601.94 292.45 L 600.52 291.71 L 599.12 291 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/keras/"
+    >
+      <path
+        d="M 688 261 L 688 260.51 L 697.6 261.05 L 707.2 261.73 L 716.8 261.09 L 726.4 260.99 L 736 261.04 L 745.6 261.19 L 755.2 261.44 L 764.8 261.59 L 774.4 261.08 L 784 261 L 783.84 261 L 784.57 271 L 784.39 281 L 783.53 291 L 784.15 301 L 784.04 311 L 784 321 L 784 320.39 L 774.4 321.19 L 764.8 321.14 L 755.2 320.79 L 745.6 321.67 L 736 321 L 726.4 320.35 L 716.8 320.28 L 707.2 321.57 L 697.6 320.53 L 688 321 L 688.39 321 L 687.98 311 L 687.88 301 L 687.34 291 L 687.45 281 L 688.47 271 L 688 261 L 688 261 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 94px;
+                height: 1px;
+                padding-top: 291px;
+                margin-left: 689px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Keras (类似 Tensorflow, 推荐直接学 Tensorflow)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="736"
+            y="295"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Keras (类似 Tensorfl...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 643 231 L 643.1 231 L 643.71 241 L 642.52 251 L 643.28 261 L 643.25 271 L 643.52 281 L 643 291 L 643 290.94 L 635.27 291.14 L 627.55 290.94 L 619.82 290.85 L 612.09 291.17 L 604.37 291"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 599.12 291 L 599.17 291.11 L 600.52 290.31 L 601.92 289.6 L 603.39 289.05 L 604.65 288.06 L 606.12 287.5 L 606.01 287.44 L 605.91 288.27 L 605.22 288.8 L 605.25 289.69 L 604.5 290.19 L 604.37 291 L 604.49 291.06 L 604.83 291.75 L 605.23 292.48 L 605.6 293.19 L 605.63 293.73 L 606.12 294.5 L 606.06 294.38 L 604.71 293.79 L 603.34 293.14 L 601.88 292.33 L 600.46 291.59 L 599.12 291 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/theano/"
+    >
+      <path
+        d="M 598 171 L 598 171.4 L 608 171.61 L 618 171.06 L 628 171.34 L 638 170.56 L 648 170.63 L 658 170.97 L 668 171.07 L 678 170.94 L 688 171 L 688.25 171 L 688.09 181 L 688.05 191 L 687.65 201 L 687.73 211 L 687.55 221 L 688 231 L 688 230.93 L 678 230.33 L 668 231.65 L 658 230.66 L 648 231.61 L 638 230.26 L 628 230.47 L 618 230.36 L 608 231.41 L 598 231 L 597.96 231 L 597.77 221 L 597.8 211 L 598.72 201 L 597.56 191 L 598.12 181 L 598 171 L 598 171 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 201px;
+                margin-left: 599px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Theano (类似 Tensorflow, 推荐直接学 Tensorflow)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="643"
+            y="205"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Theano (类似 Tensor...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a target="_parent" xlink:href="https://mofanpy.com/tutorials/others/git/">
+      <path
+        d="M 13 781 L 13 780.62 L 23 781.66 L 33 780.88 L 43 780.68 L 53 781.1 L 63 780.33 L 73 780.92 L 83 780.26 L 93 780.81 L 103 781 L 103.14 781 L 103.51 791 L 103 801 L 103.35 811 L 102.37 821 L 103.17 831 L 103 841 L 103 841.1 L 93 841.61 L 83 840.48 L 73 841.22 L 63 840.62 L 53 840.95 L 43 841 L 33 840.91 L 23 841.2 L 13 841 L 13.49 841 L 13.31 831 L 12.47 821 L 13.43 811 L 13.31 801 L 12.81 791 L 13 781 L 13 781 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 811px;
+                margin-left: 14px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  代码管理维护 (Git)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="58"
+            y="815"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            代码管理维护 (Git)
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/others/linux-basic/"
+    >
+      <path
+        d="M 129 781 L 129 781.26 L 139 780.79 L 149 780.62 L 159 780.81 L 169 780.64 L 179 780.26 L 189 780.99 L 199 781.54 L 209 780.45 L 219 781 L 218.32 781 L 218.87 791 L 219.49 801 L 219.67 811 L 219.53 821 L 219.08 831 L 219 841 L 219 840.49 L 209 840.63 L 199 840.98 L 189 841.1 L 179 840.6 L 169 840.39 L 159 841.03 L 149 841.44 L 139 840.77 L 129 841 L 129.64 841 L 128.68 831 L 128.32 821 L 129.47 811 L 128.53 801 L 129.17 791 L 129 781 L 129 781 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 811px;
+                margin-left: 130px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  远程/云端计算 (Linux 基础)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="174"
+            y="815"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            远程/云端计算 (Linux 基础)
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/ML-practice/RL-build-arm-from-scratch1/"
+    >
+      <path
+        d="M 358 781 L 358 780.44 L 368 780.65 L 378 780.45 L 388 780.61 L 398 781.33 L 408 781.06 L 418 781.09 L 428 780.57 L 438 780.69 L 448 781 L 447.59 781 L 448.15 791 L 447.54 801 L 448.08 811 L 447.8 821 L 448.38 831 L 448 841 L 448 841.69 L 438 840.83 L 428 841.59 L 418 841.67 L 408 840.99 L 398 841.67 L 388 841.39 L 378 840.63 L 368 840.47 L 358 841 L 357.72 841 L 357.76 831 L 357.41 821 L 358.61 811 L 357.78 801 L 357.57 791 L 358 781 L 358 781 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 811px;
+                margin-left: 359px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  从头做一个机器人手臂 (RL)
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="403"
+            y="815"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            从头做一个机器人手臂 (RL)
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 673 781 L 673 781.02 L 683 781.19 L 693 781.59 L 703 780.39 L 713 781.48 L 723 781.2 L 733 781.55 L 743 781.58 L 753 780.46 L 763 781 L 762.39 781 L 762.53 791 L 763.32 801 L 763.28 811 L 762.86 821 L 763.17 831 L 763 841 L 763 840.53 L 753 840.38 L 743 840.63 L 733 840.87 L 723 840.68 L 713 840.89 L 703 840.29 L 693 840.44 L 683 840.98 L 673 841 L 673.2 841 L 673.45 831 L 673 821 L 673.42 811 L 672.75 801 L 672.39 791 L 673 781 L 673 781 Z Z"
+      fill="#ffffcc"
+      stroke="rgb(0, 0, 0)"
+      stroke-width="3"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject
+          pointer-events="none"
+          width="100%"
+          height="100%"
+          requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+          style="overflow: visible; text-align: left"
+          ><div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="
+              display: flex;
+              align-items: unsafe center;
+              justify-content: unsafe center;
+              width: 88px;
+              height: 1px;
+              padding-top: 811px;
+              margin-left: 674px;
+            "
+          >
+            <div
+              data-drawio-colors="color: rgb(0, 0, 0); "
+              style="box-sizing: border-box; font-size: 0px; text-align: center"
+            >
+              <div
+                style="
+                  display: inline-block;
+                  font-size: 12px;
+                  font-family: Helvetica;
+                  color: rgb(0, 0, 0);
+                  line-height: 1.2;
+                  pointer-events: all;
+                  font-weight: bold;
+                  white-space: normal;
+                  overflow-wrap: normal;
+                "
+              >
+                ...
+              </div>
+            </div>
+          </div></foreignObject
+        >
+        <text
+          x="718"
+          y="815"
+          fill="rgb(0, 0, 0)"
+          font-family="Helvetica"
+          font-size="12px"
+          text-anchor="middle"
+          font-weight="bold"
+        >
+          ...
+        </text>
+      </switch>
+    </g>
+    <path
+      d="M 708 471 L 707.78 471 L 707.89 475 L 708.25 479 L 708.02 483 L 708.11 487 L 708 491 L 708.01 491 L 708.13 487 L 708.06 483 L 708.06 479 L 707.79 475 L 708 471 L 708.14 471 L 707.79 473.73 L 708.09 476.45 L 707.86 479.18 L 707.89 481.91 L 708 484.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 708 489.88 L 707.97 489.87 L 707.18 488.42 L 706.74 487.15 L 706.04 485.75 L 705.11 484.24 L 704.5 482.88 L 704.42 482.72 L 705.31 483.45 L 705.92 483.63 L 706.57 483.87 L 707.27 484.22 L 708 484.63 L 707.95 484.54 L 708.8 484.49 L 709.42 483.97 L 710.13 483.64 L 710.85 483.32 L 711.5 482.88 L 711.44 482.85 L 710.69 484.22 L 710.18 485.72 L 709.61 487.19 L 708.8 488.53 L 708 489.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/scraping/"
+    >
+      <path
+        d="M 666.5 381 L 666.5 381.4 L 676.88 381.19 L 687.25 381.06 L 697.63 381.34 L 708 380.84 L 718.38 381.5 L 728.75 381.01 L 739.13 380.73 L 749.5 381 Q 763 381 763 394.5 L 763.21 394.5 L 762.48 405 L 762.35 415.5 L 762.38 426 L 762.83 436.5 L 762.6 447 L 763 457.5 Q 763 471 749.5 471 L 749.5 470.96 L 739.13 471.51 L 728.75 470.83 L 718.38 470.38 L 708 471.41 L 697.63 471.05 L 687.25 470.68 L 676.88 471.43 L 666.5 471 Q 653 471 653 457.5 L 652.69 457.5 L 653.29 447 L 652.46 436.5 L 653.02 426 L 652.44 415.5 L 653.53 405 L 653 394.5 Q 653 381 666.5 381 L 666.5 381 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 90px;
+                padding-top: 381px;
+                margin-left: 652px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 90px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <br />
+                  </p>
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <br />
+                  </p>
+                  <p style="margin: 4px 0px 0px; text-align: center">
+                    网页爬虫
+                  </p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="708"
+            y="430"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            网页爬虫...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 588 551 Q 489 551 489 614.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 489 619.88 L 489.18 619.97 L 488.29 618.48 L 487.81 617.19 L 486.96 615.71 L 486.38 614.37 L 485.5 612.88 L 485.39 612.66 L 486.29 613.42 L 486.88 613.53 L 487.55 613.84 L 488.26 614.21 L 489 614.63 L 489.04 614.7 L 489.78 614.44 L 490.31 613.75 L 491.17 613.71 L 491.87 613.38 L 492.5 612.88 L 492.65 612.96 L 491.92 614.34 L 491.03 615.64 L 490.3 617.03 L 489.5 618.38 L 489 619.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 708 521 L 708.25 521 L 707.87 525 L 708.15 529 L 708.25 533 L 707.76 537 L 708 541 L 708.02 541 L 707.87 538 L 708.06 535 L 708.17 532 L 708 529 L 708 526 L 707.84 526 L 707.9 528.73 L 707.8 531.45 L 708.19 534.18 L 707.94 536.91 L 708 539.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 708 544.88 L 708 544.88 L 707.1 543.38 L 706.49 542.03 L 706 540.73 L 705.1 539.23 L 704.5 537.88 L 704.41 537.69 L 705.1 538.03 L 705.92 538.62 L 706.62 538.97 L 707.33 539.35 L 708 539.63 L 708.07 539.76 L 708.62 539.12 L 709.32 538.78 L 710.04 538.45 L 710.82 538.28 L 711.5 537.88 L 711.55 537.91 L 710.63 539.2 L 710.09 540.68 L 709.3 542.03 L 708.77 543.52 L 708 544.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/scraping/beautifulsoup-basic/"
+    >
+      <path
+        d="M 658 491 L 658 490.7 L 668 491.62 L 678 490.6 L 688 490.77 L 698 491.48 L 708 490.32 L 718 490.65 L 728 491.67 L 738 490.87 L 748 490.8 L 758 491 L 757.92 491 L 757.76 497 L 757.76 503 L 758.01 509 L 757.9 515 L 758 521 L 758 521.69 L 748 521.75 L 738 521.01 L 728 521.26 L 718 520.75 L 708 521.1 L 698 521.25 L 688 520.76 L 678 520.36 L 668 521.08 L 658 521 L 657.78 521 L 658.23 515 L 658.2 509 L 658.1 503 L 657.81 497 L 658 491 L 658 491 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 98px;
+                height: 1px;
+                padding-top: 506px;
+                margin-left: 659px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  解析网页
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="708"
+            y="510"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            解析网页
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 707 631 L 708 631 L 707.78 631 L 708.07 637 L 707.91 643 L 708.21 649 L 707.83 655 L 708 661 L 708 661.55 L 698.15 660.27 L 688.3 660.37 L 678.44 660.35 L 668.59 660.95 L 658.74 660.3 L 648.89 661.13 L 639.04 661.36 L 629.18 661.36 L 619.33 661.62 L 609.48 661.01 L 599.63 660.71 L 589.78 660.89 L 579.92 661.46 L 570.07 661.32 L 560.22 660.63 L 550.37 661"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 545.12 661 L 545.12 661 L 546.46 660.18 L 547.84 659.44 L 549.35 658.96 L 550.63 658.03 L 552.12 657.5 L 552.3 657.59 L 551.63 658.13 L 551.48 658.93 L 551.02 659.58 L 550.51 660.2 L 550.37 661 L 550.56 661.1 L 550.88 661.78 L 550.89 662.31 L 551.34 663.06 L 551.93 663.88 L 552.12 664.5 L 552.14 664.54 L 550.62 663.6 L 549.35 663.17 L 547.87 662.31 L 546.57 661.8 L 545.12 661 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 69.5 171 L 69.5 191 L 69.63 189.66"
+      fill="none"
+      stroke="#000000"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 69.11 194.89 L 66.33 187.57 L 69.63 189.66 L 73.29 188.27 Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 34.75 96 C 6.95 96 0 121 22.24 126 C 0 137 25.02 161 43.09 151 C 55.6 171 97.3 171 111.2 151 C 139 151 139 131 121.63 121 C 139 101 111.2 81 86.88 91 C 69.5 76 41.7 76 34.75 96 Z"
+      fill="#ffe6cc"
+      stroke="#d79b00"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject
+          pointer-events="none"
+          width="100%"
+          height="100%"
+          requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+          style="overflow: visible; text-align: left"
+          ><div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="
+              display: flex;
+              align-items: unsafe center;
+              justify-content: unsafe center;
+              width: 137px;
+              height: 1px;
+              padding-top: 121px;
+              margin-left: 1px;
+            "
+          >
+            <div
+              data-drawio-colors="color: rgb(0, 0, 0); "
+              style="box-sizing: border-box; font-size: 0px; text-align: center"
+            >
+              <div
+                style="
+                  display: inline-block;
+                  font-size: 12px;
+                  font-family: Helvetica;
+                  color: rgb(0, 0, 0);
+                  line-height: 1.2;
+                  pointer-events: all;
+                  white-space: normal;
+                  overflow-wrap: normal;
+                "
+              >
+                Start
+              </div>
+            </div>
+          </div></foreignObject
+        >
+        <text
+          x="70"
+          y="125"
+          fill="rgb(0, 0, 0)"
+          font-family="Helvetica"
+          font-size="12px"
+          text-anchor="middle"
+        >
+          Start
+        </text>
+      </switch>
+    </g>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/ML-practice/build-car-classifier-from-scratch1/"
+    >
+      <path
+        d="M 463 781 L 463 781.32 L 473 780.37 L 483 781.74 L 493 781.41 L 503 781.52 L 513 780.61 L 523 780.98 L 533 780.61 L 543 781.42 L 553 781 L 552.91 781 L 552.8 791 L 553.6 801 L 552.29 811 L 553.31 821 L 553.5 831 L 553 841 L 553 841.33 L 543 840.9 L 533 841.1 L 523 841.14 L 513 841.4 L 503 840.93 L 493 840.99 L 483 840.91 L 473 841.06 L 463 841 L 463.26 841 L 462.81 831 L 462.75 821 L 463.6 811 L 462.34 801 L 463.72 791 L 463 781 L 463 781 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 811px;
+                margin-left: 464px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  从头做汽车状态分类器
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="508"
+            y="815"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            从头做汽车状态分类器
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 708 576 L 707.76 576 L 708.08 580 L 707.86 584 L 708 588 L 708.05 592 L 708 596 L 707 596 L 707 594.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 707 599.88 L 707.14 599.95 L 706.41 598.54 L 705.52 597.04 L 704.96 595.71 L 704.13 594.25 L 703.5 592.88 L 703.51 592.9 L 704.09 593.02 L 704.85 593.48 L 705.6 593.94 L 706.24 594.17 L 707 594.63 L 706.97 594.57 L 707.66 594.21 L 708.43 594 L 709.18 593.73 L 709.72 593.08 L 710.5 592.88 L 710.62 592.94 L 709.67 594.22 L 709.3 595.78 L 708.48 597.12 L 707.5 598.38 L 707 599.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/scraping/distributed-scraping/"
+    >
+      <path
+        d="M 658 546 L 658 546.68 L 668 545.58 L 678 545.46 L 688 546.43 L 698 546.7 L 708 545.72 L 718 546.48 L 728 545.61 L 738 546.63 L 748 545.39 L 758 546 L 758.02 546 L 757.77 552 L 758.18 558 L 757.78 564 L 757.97 570 L 758 576 L 758 575.9 L 748 576.72 L 738 575.95 L 728 576.58 L 718 575.77 L 708 576.06 L 698 575.46 L 688 576.06 L 678 576.41 L 668 575.62 L 658 576 L 658.06 576 L 657.89 570 L 657.86 564 L 658.01 558 L 658.1 552 L 658 546 L 658 546 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 98px;
+                height: 1px;
+                padding-top: 561px;
+                margin-left: 659px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  高效爬虫
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="708"
+            y="565"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            高效爬虫
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/scraping/selenium/"
+    >
+      <path
+        d="M 657 601 L 657 601.55 L 667 600.37 L 677 601.32 L 687 600.85 L 697 600.61 L 707 601.03 L 717 601.39 L 727 601.12 L 737 600.35 L 747 601.67 L 757 601 L 756.99 601 L 756.81 607 L 757.11 613 L 757.2 619 L 756.93 625 L 757 631 L 757 631.32 L 747 630.85 L 737 631.08 L 727 630.8 L 717 630.95 L 707 631.18 L 697 630.9 L 687 631.44 L 677 631.02 L 667 631.31 L 657 631 L 657.08 631 L 657.11 625 L 656.79 619 L 657 613 L 656.98 607 L 657 601 L 657 601 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 98px;
+                height: 1px;
+                padding-top: 616px;
+                margin-left: 658px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  爬虫高级库
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="707"
+            y="620"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            爬虫高级库
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/nlp/"
+    >
+      <path
+        d="M 305.8 425 L 305.8 425.64 L 315.73 424.56 L 325.67 425.17 L 335.6 424.74 L 345.53 424.58 L 355.47 424.77 L 365.4 425.14 L 375.33 425.4 L 385.27 424.93 L 395.2 425 Q 403 425 403 432.8 L 403.15 432.8 L 402.86 440.08 L 402.78 447.36 L 402.79 454.64 L 402.88 461.92 L 403 469.2 Q 403 477 395.2 477 L 395.2 476.59 L 385.27 476.85 L 375.33 476.58 L 365.4 477.62 L 355.47 476.71 L 345.53 476.42 L 335.6 476.97 L 325.67 477.19 L 315.73 477.53 L 305.8 477 Q 298 477 298 469.2 L 297.97 469.2 L 298 461.92 L 297.98 454.64 L 298.2 447.36 L 297.87 440.08 L 298 432.8 Q 298 425 305.8 425 L 305.8 425 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 107px;
+                height: 52px;
+                padding-top: 425px;
+                margin-left: 297px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 105px;
+                  height: 52px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  ></p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span>自然语言处理</span><br />
+                  </p>
+                  <p style="margin: 0px; margin-left: 8px">
+                    <span>NLP</span><br />
+                  </p>
+                </div>
+              </div></div
+          ></foreignObject>
+          <text
+            x="351"
+            y="455"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            自然语言处理NLP...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 448 436 L 448 436.1 L 443.5 435.92 L 439 436.1 L 434.5 436.07 L 430 435.9 L 425.5 436 L 425.67 436 L 425.71 439 L 425.7 442 L 425.39 445 L 425.57 448 L 425.5 451 L 425.5 451.08 L 422.27 451.22 L 419.05 451.04 L 415.82 451.21 L 412.59 450.9 L 409.37 451"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 404.12 451 L 404.16 451.09 L 405.5 450.26 L 406.95 449.67 L 408.3 448.86 L 409.61 447.99 L 411.12 447.5 L 411.22 447.55 L 410.57 448.1 L 410.41 448.9 L 409.91 449.52 L 409.85 450.37 L 409.37 451 L 409.38 451.01 L 409.65 451.66 L 410.05 452.39 L 410.25 453.02 L 410.74 453.79 L 411.12 454.5 L 411.19 454.64 L 409.68 453.72 L 408.37 453.21 L 406.82 452.2 L 405.54 451.74 L 404.12 451 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 298 451 L 297.87 451 L 298.15 451.8 L 297.76 452.6 L 298.25 453.4 L 298.07 454.2 L 298 455 L 298 455.15 L 294.4 455.15 L 290.8 455.17 L 287.2 454.88 L 283.6 454.95 L 280 455 L 279.8 455 L 279.8 462.2 L 279.83 469.4 L 280.23 476.6 L 280.04 483.8 L 280 491 L 280 490.7 L 270 490.61 L 260 491.39 L 250 491.54 L 240 491.33 L 230 490.76 L 220 491 L 220.26 491 L 220.57 501 L 220.06 511 L 220.16 521 L 220.4 531 L 220 541 L 220 541.41 L 210.27 540.75 L 200.55 540.33 L 190.82 540.68 L 181.09 540.3 L 171.36 541.66 L 161.64 540.8 L 151.91 540.72 L 142.18 540.25 L 132.45 540.78 L 122.73 541.34 L 113 541 L 113.63 541 L 112.41 551.52 L 113.16 562.04 L 112.5 572.56 L 112.29 583.08 L 112.9 593.59 L 112.81 604.11 L 113 614.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 113 619.88 L 113.1 619.93 L 112.28 618.47 L 111.39 616.98 L 111.11 615.79 L 110.28 614.32 L 109.5 612.88 L 109.41 612.7 L 110.11 613.06 L 110.85 613.48 L 111.51 613.75 L 112.38 614.45 L 113 614.63 L 113.02 614.67 L 113.76 614.4 L 114.36 613.85 L 115.13 613.63 L 115.71 613.06 L 116.5 612.88 L 116.51 612.89 L 115.93 614.35 L 114.89 615.58 L 114.35 617.06 L 113.59 618.43 L 113 619.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/machine-learning/gan/"
+    >
+      <path
+        d="M 305.8 501 L 305.8 500.72 L 315.73 501.48 L 325.67 501.53 L 335.6 500.74 L 345.53 501.58 L 355.47 501.69 L 365.4 501.13 L 375.33 501.6 L 385.27 500.5 L 395.2 501 Q 403 501 403 508.8 L 402.82 508.8 L 403.18 516.08 L 403.07 523.36 L 402.96 530.64 L 403.02 537.92 L 403 545.2 Q 403 553 395.2 553 L 395.2 552.37 L 385.27 553.22 L 375.33 553.1 L 365.4 552.5 L 355.47 553.23 L 345.53 553.42 L 335.6 553.11 L 325.67 553.64 L 315.73 552.44 L 305.8 553 Q 298 553 298 545.2 L 298.2 545.2 L 298.07 537.92 L 297.88 530.64 L 298.02 523.36 L 298.09 516.08 L 298 508.8 Q 298 501 305.8 501 L 305.8 501 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 107px;
+                height: 52px;
+                padding-top: 501px;
+                margin-left: 297px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 105px;
+                  height: 52px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  ></p>
+                  <p style="margin: 0px; margin-left: 8px"><br /></p>
+                  <p style="margin: 0px; margin-left: 8px">生成对抗网络</p>
+                  <p style="margin: 0px; margin-left: 8px">GAN</p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="351"
+            y="531"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            生成对抗网络GAN...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 448 436 L 448 435.85 L 443.5 435.76 L 439 435.91 L 434.5 436.16 L 430 436.21 L 425.5 436 L 424.87 436 L 425.98 446.11 L 425.18 456.22 L 425.34 466.33 L 426.11 476.44 L 424.85 486.56 L 425.28 496.67 L 425.94 506.78 L 425.85 516.89 L 425.5 527 L 425.5 526.78 L 422.27 526.75 L 419.05 527.04 L 415.82 527.1 L 412.59 527.15 L 409.37 527"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 404.12 527 L 404.07 526.91 L 405.54 526.35 L 406.97 525.71 L 408.28 524.82 L 409.82 524.4 L 411.12 523.5 L 411.11 523.5 L 410.69 524.16 L 410.5 524.94 L 410.03 525.58 L 409.66 526.27 L 409.37 527 L 409.56 527.1 L 409.56 527.62 L 410.12 528.43 L 410.27 529.03 L 410.68 529.75 L 411.12 530.5 L 411.16 530.59 L 409.63 529.63 L 408.3 529.07 L 406.97 528.5 L 405.41 527.48 L 404.12 527 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 298 527 L 298 527.64 L 288.25 527.09 L 278.5 527.03 L 268.75 527.64 L 259 526.51 L 249.25 527.38 L 239.5 527.37 L 229.75 527 L 220 527 L 220.18 527 L 220.21 529.8 L 219.98 532.6 L 219.87 535.4 L 219.76 538.2 L 220 541 L 220 541.13 L 210.27 541.32 L 200.55 541.22 L 190.82 541.49 L 181.09 540.58 L 171.36 541.65 L 161.64 541.02 L 151.91 541.32 L 142.18 540.31 L 132.45 541.16 L 122.73 541.21 L 113 541 L 113.1 541 L 112.59 551.52 L 112.59 562.04 L 112.98 572.56 L 113.59 583.08 L 112.69 593.59 L 112.62 604.11 L 113 614.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      stroke-dasharray="3 3"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 113 619.88 L 113.13 619.95 L 112.5 618.58 L 111.59 617.08 L 110.88 615.67 L 110.09 614.23 L 109.5 612.88 L 109.6 613.09 L 110.31 613.45 L 110.81 613.41 L 111.65 614.03 L 112.28 614.24 L 113 614.63 L 113.07 614.78 L 113.62 614.13 L 114.47 614.07 L 115.21 613.8 L 115.81 613.26 L 116.5 612.88 L 116.69 612.98 L 115.61 614.19 L 115.02 615.64 L 114.58 617.17 L 113.56 618.41 L 113 619.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a
+      target="_parent"
+      xlink:href="https://mofanpy.com/tutorials/data-manipulation/pandas/"
+    >
+      <path
+        d="M 150 292 L 150 291.37 L 160 292.53 L 170 291.43 L 180 291.86 L 190 292 L 200 292.32 L 210 291.28 L 220 292.42 L 230 292.01 L 240 292 L 240.46 292 L 239.85 301 L 239.55 310 L 239.7 319 L 240.54 328 L 240 337 L 240 336.34 L 230 337.69 L 220 336.61 L 210 336.73 L 200 336.91 L 190 336.95 L 180 336.47 L 170 337.39 L 160 336.79 L 150 337 L 150.37 337 L 150.33 328 L 150.53 319 L 149.88 310 L 149.4 301 L 150 292 L 150 292 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 315px;
+                margin-left: 151px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  Pandas<br />数据伙伴
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="195"
+            y="318"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            Pandas...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 161.5 356 L 161.5 355.85 L 167.2 355.8 L 172.9 356.14 L 178.6 355.96 L 184.3 355.91 L 190 356 L 189.8 356 L 190 353.27 L 190.08 350.55 L 190.21 347.82 L 189.79 345.09 L 190 342.37"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 190 337.12 L 189.78 337.01 L 190.52 338.43 L 191.6 340.02 L 191.98 341.26 L 192.92 342.78 L 193.5 344.12 L 193.56 344.23 L 192.76 343.69 L 192.06 343.33 L 191.5 343.27 L 190.8 342.92 L 190 342.37 L 190.09 342.55 L 189.22 342.55 L 188.62 343.11 L 187.82 343.26 L 187.25 343.87 L 186.5 344.12 L 186.67 344.2 L 187.32 342.78 L 188.01 341.37 L 188.42 339.83 L 189.1 338.42 L 190 337.12 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <path
+      d="M 240 314.5 L 240 314.56 L 244 314.52 L 248 314.5 L 252 314.42 L 256 314.74 L 260 314.5 L 259.87 314.5 L 259.79 306 L 260.13 297.5 L 260.16 289 L 259.8 280.5 L 260 272 L 260 271.89 L 259.6 271.78 L 259.2 272.05 L 258.8 272.05 L 258.4 272.17 L 258 272 L 258.11 272 L 258 271.53 L 258 271.05 L 257.77 270.58 L 257.8 270.11 L 258 269.63"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 258 274.88 L 257.82 274.79 L 257.14 273.4 L 256.66 272.11 L 255.75 270.61 L 255.25 269.31 L 254.5 267.88 L 254.47 267.81 L 255.31 268.46 L 255.79 268.37 L 256.71 269.15 L 257.23 269.13 L 258 269.63 L 257.94 269.51 L 258.68 269.25 L 259.31 268.76 L 260.01 268.4 L 260.91 268.46 L 261.5 267.88 L 261.38 267.82 L 260.97 269.37 L 260.15 270.71 L 259.21 271.99 L 258.77 273.52 L 258 274.88 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+    <a target="_parent" xlink:href="https://mofanpy.com/minipy/">
+      <path
+        d="M 225 571 L 225 571.19 L 234.56 571.12 L 244.11 571.44 L 253.67 571.59 L 263.22 570.4 L 272.78 571.11 L 282.33 571.63 L 291.89 570.42 L 301.44 571.58 L 311 571 Q 323 571 323 583 L 322.39 583 L 323.67 592.33 L 323.67 601.67 L 322.7 611 L 322.52 620.33 L 323.44 629.67 L 323 639 Q 323 651 311 651 L 311 650.72 L 301.44 651.5 L 291.89 651.4 L 282.33 651.17 L 272.78 650.3 L 263.22 650.38 L 253.67 651.06 L 244.11 650.65 L 234.56 650.41 L 225 651 Q 213 651 213 639 L 213.62 639 L 213.6 629.67 L 212.37 620.33 L 213.15 611 L 212.27 601.67 L 213.34 592.33 L 213 583 Q 213 571 225 571 L 225 571 Z Z"
+        fill="#e6ffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 112px;
+                height: 80px;
+                padding-top: 571px;
+                margin-left: 212px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                  width: 110px;
+                  height: 80px;
+                  overflow: hidden;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    width: 100%;
+                    height: 100%;
+                    white-space: nowrap;
+                  "
+                >
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    <br />
+                  </p>
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    MiniPy
+                  </p>
+                  <p
+                    style="
+                      margin: 0px;
+                      margin-top: 4px;
+                      text-align: center;
+                      text-decoration: underline;
+                    "
+                  >
+                    Python 小程序
+                  </p>
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="268"
+            y="615"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            MiniPy...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <a target="_parent" xlink:href="https://mofanpy.com/minipy/">
+      <path
+        d="M 568 781 L 568 780.88 L 578 781.44 L 588 780.4 L 598 780.54 L 608 781.5 L 618 781.63 L 628 781.39 L 638 781.56 L 648 781.58 L 658 781 L 658.21 781 L 657.97 791 L 657.69 801 L 657.89 811 L 657.67 821 L 657.95 831 L 658 841 L 658 840.29 L 648 841.37 L 638 840.69 L 628 841.08 L 618 840.6 L 608 841.36 L 598 840.45 L 588 840.76 L 578 840.75 L 568 841 L 568.25 841 L 568.54 831 L 568.42 821 L 567.57 811 L 568.69 801 L 567.58 791 L 568 781 L 568 781 Z Z"
+        fill="#ffffcc"
+        stroke="rgb(0, 0, 0)"
+        stroke-width="3"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        pointer-events="all"
+      />
+      <g transform="translate(-0.5 -0.5)">
+        <switch>
+          <foreignObject
+            pointer-events="none"
+            width="100%"
+            height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+            style="overflow: visible; text-align: left"
+            ><div
+              xmlns="http://www.w3.org/1999/xhtml"
+              style="
+                display: flex;
+                align-items: unsafe center;
+                justify-content: unsafe center;
+                width: 88px;
+                height: 1px;
+                padding-top: 811px;
+                margin-left: 569px;
+              "
+            >
+              <div
+                data-drawio-colors="color: rgb(0, 0, 0); "
+                style="
+                  box-sizing: border-box;
+                  font-size: 0px;
+                  text-align: center;
+                "
+              >
+                <div
+                  style="
+                    display: inline-block;
+                    font-size: 12px;
+                    font-family: Helvetica;
+                    color: rgb(0, 0, 0);
+                    line-height: 1.2;
+                    pointer-events: all;
+                    font-weight: bold;
+                    white-space: normal;
+                    overflow-wrap: normal;
+                  "
+                >
+                  自创 Python <br />小程序
+                </div>
+              </div>
+            </div></foreignObject
+          >
+          <text
+            x="613"
+            y="815"
+            fill="rgb(0, 0, 0)"
+            font-family="Helvetica"
+            font-size="12px"
+            text-anchor="middle"
+            font-weight="bold"
+          >
+            自创 Python...
+          </text>
+        </switch>
+      </g>
+    </a>
+    <path
+      d="M 489 701 L 488.82 701 L 489.12 709 L 488.85 717 L 489.19 725 L 488.92 733 L 489 741 L 489 741.02 L 498.75 740.43 L 508.5 740.34 L 518.25 740.87 L 528 740.71 L 537.75 741.29 L 547.5 740.34 L 557.25 740.99 L 567 740.76 L 576.75 741.61 L 586.5 740.78 L 596.25 741.73 L 606 741 L 605.96 741 L 606.24 747.33 L 605.82 753.66 L 605.84 759.99 L 605.82 766.32 L 605.98 772.65"
+      fill="none"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+    />
+    <path
+      d="M 605.98 777.9 L 605.82 777.82 L 605.1 776.41 L 604.52 775.07 L 603.84 773.68 L 603.29 772.35 L 602.48 770.9 L 602.51 770.94 L 603.19 771.26 L 603.93 771.69 L 604.48 771.75 L 605.3 772.33 L 605.98 772.65 L 606.06 772.81 L 606.59 772.12 L 607.36 771.91 L 608.13 771.69 L 608.73 771.14 L 609.48 770.9 L 609.37 770.85 L 608.66 772.24 L 608.22 773.77 L 607.58 775.2 L 606.88 776.6 L 605.98 777.9 Z Z"
+      fill="#000000"
+      stroke="#000000"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      pointer-events="all"
+    />
+  </g>
+  <switch>
+    <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" />
+    <a
+      transform="translate(0,-5)"
+      xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+      target="_blank"
+    >
+      <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+        Text is not SVG - cannot display
+      </text>
+    </a>
+  </switch>
+</svg>

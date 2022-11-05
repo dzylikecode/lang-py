@@ -87,3 +87,8 @@
   - [Anaconda export Environment file](https://stackoverflow.com/questions/41274007/anaconda-export-environment-file)
 
     有 prefix 也没有关系
+
+  pip 方式:
+
+  - `pip freeze > requirements.txt`
+  - `pip install -r requirements.txt`
