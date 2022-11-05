@@ -33,3 +33,26 @@ print("我的名字是 {} !我 {} 岁了，我 {} 米高~".format(name, age, hei
 print("我的名字是 {nm} !我 {age} 岁了，我 {ht} 米高~我是{nm}".format(nm=name, age=age, ht=height))
 print("我 {ht:.1f} 米高".format(ht=1.12345))
 ```
+
+## 格式化字符串
+
+```py
+name = "莫烦Python"
+age = 18
+height = 1.8
+print(f"我的名字是 {name} !我 {age} 岁了，我 {height:.2f} 米高~")
+```
+
+## 修改字符串
+
+|   method   |        action        |
+| :--------: | :------------------: |
+|   strip    |   去除两端的空白符   |
+|  replace   |       替换字符       |
+|   lower    |    全部做小写处理    |
+|   upper    |    全部做大写处理    |
+|   title    |   仅开头的字母大写   |
+|   split    |      按要求分割      |
+|    join    |      按要求合并      |
+| startswith | 判断是否为某字段开头 |
+|  endswith  | 判断是否为某字段结尾 |

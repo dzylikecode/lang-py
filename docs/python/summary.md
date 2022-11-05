@@ -9,3 +9,5 @@
 - [正则表达式](python/regex.md)
 - [序列化](python/serialization.md)
 - [string](python/string.md)
+- [语法糖](python/syntactic-sugar.md)
+- [杂项](python/miscellaneous.md)
