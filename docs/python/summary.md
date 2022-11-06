@@ -1,4 +1,4 @@
-- [intro](python/README.md)
+- [:boat:](python/README.md)
 - [env](python/environment.md)
 - [基本语法](python/C-set.md)
 - [面向对象](python/OOP.md)
