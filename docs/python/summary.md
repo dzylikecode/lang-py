@@ -11,3 +11,5 @@
 - [string](python/string.md)
 - [语法糖](python/syntactic-sugar.md)
 - [杂项](python/miscellaneous.md)
+- [多线程](python/thread.md)
+- [多进程](python/process.md)
