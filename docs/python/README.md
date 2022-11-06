@@ -9,6 +9,7 @@
 - [PythonLand 中文系列教程](https://pyld.apachecn.org/#/README)
 - [walter201230/Python](https://github.com/walter201230/Python)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+- [python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/copyright.html)
 
 ## surprise
 
