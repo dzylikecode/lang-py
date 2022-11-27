@@ -1,3 +1,2 @@
-- [home](https://dzylikecode.github.io/#/)
-- [intro](README.md)
-- [python](python/)
+- [:boat:](README.md)
+- [resource](resource.md)

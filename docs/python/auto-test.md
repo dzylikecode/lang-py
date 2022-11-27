@@ -1,5 +1,13 @@
 # 自动化测试
 
+## 规范
+
+文件`filename.py`, 则测试的文件为`filename_test.py`
+
+- [tensorflow 的文件目录](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/python/framework)
+
+函数命名`test_*`
+
 ```py
 def my_func1(a):
     if a == 1:

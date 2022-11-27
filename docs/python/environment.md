@@ -32,7 +32,7 @@
    actviating conda for zsh
 
    ```bash
-   eval "$(/home/minus/miniconda3/bin/conda shell.zsh hook)"
+   eval "$($HOME/miniconda3/bin/conda shell.zsh hook)"
    ```
 
    conda init
@@ -92,3 +92,11 @@
 
   - `pip freeze > requirements.txt`
   - `pip install -r requirements.txt`
+
+## ipynb
+
+当前环境使用 vscode 的 jupyter 运行
+
+```bash
+conda install -n <env_name> ipykernel --update-deps --force-reinstallconda install -n <env_name> ipykernel --update-deps --force-reinstall
+```
