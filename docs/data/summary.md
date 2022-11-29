@@ -1,2 +1,2 @@
 - [:boat:](data/README.md)
-- [numpy](data/numpy.md)
+- [matrix](data/matrix.md)
