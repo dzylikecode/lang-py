@@ -71,6 +71,17 @@
 
   `conda create --name new_env_name --clone old_env_name `
 
+- update conda
+
+  ```bash
+  conda update -n base -c defaults conda
+  ```
+
+  ```bash
+  #update the conda package manager to the latest version
+  conda update conda
+  ```
+
 - 分享环境
 
   当前环境
@@ -92,6 +103,10 @@
 
   - `pip freeze > requirements.txt`
   - `pip install -r requirements.txt`
+
+### bash
+
+[](./assets/command.sh ":include :type=code bash")
 
 ## ipynb
 
