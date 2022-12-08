@@ -1,0 +1,5 @@
+- [:house:](https://dzylikecode.github.io/#/)
+- [:boat:](/)
+- [python](/docs/python/)
+- [GUI](/docs/GUI/)
+- [data](/docs/data/)

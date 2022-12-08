@@ -1,5 +1,0 @@
-- [home](https://dzylikecode.github.io/#/)
-- [intro](README.md)
-- [python](python/)
-- [GUI](GUI/)
-- [data](data/)
