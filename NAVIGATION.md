@@ -1,5 +1,6 @@
 - [:house:](https://dzylikecode.github.io/#/)
 - [:boat:](/)
-- [python](/docs/python/)
+- [:snake:](/docs/python/)
 - [GUI](/docs/GUI/)
 - [data](/docs/data/)
+- [:cook:](/docs/cook/)
