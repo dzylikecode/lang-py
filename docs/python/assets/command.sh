@@ -76,3 +76,22 @@ function conda_update_package() {
     dz_ex
 }
 alias dz_up="conda_update_package"
+
+
+####################################################################
+# help
+function help_docs(){
+    echo "help_docs"
+    echo "dz_mk: create conda env"
+    echo "dz_rm: remove conda env"
+    echo "dz_cd: activate conda env"
+    echo "dz_lf: (left)deactivate conda env"
+    echo "dz_ex: export conda env"
+    echo "dz_im: import conda env"
+    echo "dz_in: install package"
+    echo "dz_un: uninstall package"
+    echo "dz_ipy: install ipykernel"
+    echo "dz_up: update all packages"
+}
+
+alias dz_help="help_docs"
