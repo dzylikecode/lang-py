@@ -79,6 +79,45 @@ min_price = max(prices_and_names) # error 不能再次使用
 
 ---
 
-找相同的, 利用集合的运算去思考
+找相同的, 利用集合的运算去思考: 交集
 
 像数学一样思考
+
+---
+
+去重, 并保持相对位置不变
+
+用函数式思考, 相当于一个容器变成另一个容器
+
+如文件去重:
+
+```py
+with open('somefile', 'r') as f:
+    for line in dedupe(f):
+        print(line)
+```
+
+- `dedupe(f)`
+
+  文件"f"变成去重后的行数, 可以提供一个 lambda 表达式将不可"hashable"的对象转换为可 hashable 的对象
+
+---
+
+生成器
+
+- 生成器表达式
+
+  ```py
+  nums = [1, 2, 3, 4, 5]
+  s = sum(x * x for x in nums)
+  ```
+
+  生成器表达式的语法和列表推导差不多, 只是把方括号换成了圆括号
+
+  生成器表达式的好处是, 不会立即生成一个列表, 而是在迭代元素的时候才会计算元素
+
+  生成器表达式的一个主要用途是作为参数传递给函数
+
+  ```py
+  min((x, y) for x in nums for y in nums if x > y)
+  ```
