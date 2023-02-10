@@ -6,6 +6,8 @@ Python Cookbook
 
 良好的菜谱可以查阅
 
+online: http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Cookbook-3rd-Edition.pdf
+
 ## 感悟
 
 通过优秀的案例, 可以具体地改善自己的代码. 等习惯了, 经常使用, 慢慢地就悟出背后深刻的抽象与含义
